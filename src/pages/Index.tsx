@@ -116,7 +116,7 @@ const Index = () => {
       title: 'Flow',
       description: 'Sistema de Gestion de gastos personales para administrar tu dinero de manera eficiente.',
       technologies: ['React', 'TypeScript', 'SupaBase'],
-      liveUrl: 'https://flow-project.vercel.app/',
+      liveUrl: 'https://flow-finance-two.vercel.app/',
       githubUrl: 'https://github.com/ssilvalab/Flow',
       imageUrl: 'https://media.discordapp.net/attachments/1444219182861254738/1444905406806888569/image.png?ex=692e6886&is=692d1706&hm=57ab511d845666bc4f920ad8d3f54293f6e7455f8041f1354313df62fd475845&=&format=webp&quality=lossless&width=1713&height=864',
       status: 'completed' as const
